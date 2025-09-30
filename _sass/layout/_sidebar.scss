@@ -63,6 +63,8 @@
   img.website-icon {
     width: 16px !important;
     height: 16px !important;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
   }
 }
 

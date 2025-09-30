@@ -25,10 +25,10 @@ author:
   avatar           : "DSC_0125_LR1_cropped.jpg"
   name             : "Jeroen Degroote"
   pronouns         : "prof. dr."
-  bio              : "I am a tenure-track assistant professor at Ghent University's Faculty of Bioscience Engineering, specializing in data-driven animal nutrition and healthcare. My research team is a unit dedicated to precision nutrition in pigs and poultry, and is integrated in the Laboratory for Animal Nutrition and Product quality (LANUPRO)"
+  bio              : "I am a tenure-track assistant professor specializing in data-driven animal nutrition"
   location         : "Ghent, Belgium"
   employer         : "Ghent University"
-  uri              : "lanupro.ugent.be"
+  uri              : "https://lanupro.ugent.be"
   email            : "jerdgroo.degroote@ugent.be" 
 
   # Academic websites
@@ -38,8 +38,8 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8139-8799"
-  semantic         : "https://pubmed.ncbi.nlm.nih.gov/?term=Degroote+J&cauthor_id=39616350"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  semantic         : # URL
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Degroote+J&cauthor_id=39616350"
   researchgate     : "https://www.researchgate.net/profile/Jeroen-Degroote"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55830765200&origin=recordpage"
 
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/lanupro-analytics"
+  github           : "lanupro-analytics"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
